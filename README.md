@@ -1,5 +1,10 @@
 # Bala Narayana Subbarao Chikkala
 
+-📍 Denton, Texas
+- 📧 Email: [bala.chikkala@outlook.com](mailto:bala.chikkala@outlook.com)
+- 🌐 LinkedIn: [balachikkala](https://linkedin.com/in/balachikkala)
+- 🔗 GitHub: [balachikkala006](https://github.com/balachikkala006)
+
 👋 Hi! I'm Bala, an **AI/ML Engineer** with over 3.5 years of experience in model building, optimization, and deploying scalable machine learning solutions using cloud technologies. I specialize in **Generative AI** and **deep learning**.
 
 
@@ -50,9 +55,6 @@
 ## 🤝 Let's Collaborate!
 I believe one of my greatest strengths is **creative storytelling** combined with a solid understanding of **quantitative and statistical analysis**. I have a strong intuition for identifying **real-world business use cases** and transforming them into impactful projects. As a **curious team player**, I thrive in collaborative environments, bringing **intellectual problem-solving ability**, **technical acumen**, and effective communication to every project. If you're interested in building innovative AI/ML solutions or collaborating on exciting new ideas, feel free to reach out!
 
-- 📧 Email: [bala.chikkala@outlook.com](mailto:bala.chikkala@outlook.com)
-- 🌐 LinkedIn: [balachikkala](https://linkedin.com/in/balachikkala)
-- 🔗 GitHub: [balachikkala006](https://github.com/balachikkala006)
 
 
 ## 🌱 Always Learning
