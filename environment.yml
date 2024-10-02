@@ -1,0 +1,7 @@
+name: myenv
+dependencies:
+  - python=3.10
+  - tensorflow
+  - scikit-learn
+  - pandas
+  - numpy
