@@ -5,7 +5,7 @@
 - 🌐 LinkedIn: [balachikkala](https://linkedin.com/in/balachikkala)
 - 🔗 GitHub: [balachikkala006](https://github.com/balachikkala006)
 
-👋 Hi! I'm Bala, an **AI/ML Engineer** with over 3.5 years of experience in model building, optimization, and deploying scalable machine learning solutions using cloud technologies. I specialize in **Generative AI** and **deep learning**.
+👋 Hi! I'm Bala, an **AI/ML Engineer** with over 4.5 years of experience in model building, optimization, and deploying scalable machine learning solutions using cloud technologies. I specialize in **Generative AI** and **deep learning**.
 
 
 🌍 **Indian native**, now living in **Texas**, passionate about conducting **analytical research** to tackle complex problems and create meaningful impact across diverse industries and domains. 💡🔬
